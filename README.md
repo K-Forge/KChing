@@ -15,4 +15,6 @@ npm run install:gitglow-hook
 npm run install:gitglow-hook:win
 ```
 
-> Los scripts de instalación están en la carpeta `scripts/` y diferenciados por plataforma: `macos-git-glow.sh` y `windows-git-glow.ps1`.
+> Los scripts de instalación están en la carpeta `scripts/` y diferenciados por plataforma: `macos-git-glow.sh` y `windows-git-glow.ps1`. 
+
+> test
